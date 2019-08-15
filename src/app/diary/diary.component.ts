@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Diary } from '../diary'
+import { Diary } from '../diary';
 import { FilterPipe } from '../filter.pipe';
 
 @Component({
